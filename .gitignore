@@ -1,0 +1,11 @@
+union_pier.Rproj
+archive/
+.DS_Store
+.RData
+.RDataTmp
+.Rhistory
+.Rproj.user/
+.ipynb_checkpoints/
+R Versions/
+Union Pier TRC Submittal 20230130.pdf
+data/
